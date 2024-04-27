@@ -41,7 +41,7 @@
 - Implementar funcionalidades para check-in no aplicativo móvel.
 - Testar a comunicação com a API do back-end.
 
-## 4. Posição de Pivot: Membro 5
+## 4. Posição de Pivot:
 ### Sprint 1: Semana de Aprendizado
 - Participar de sessões de treinamento para front-end, back-end, e mobile.
 - Ajudar com a configuração do ambiente para cada subequipe.
